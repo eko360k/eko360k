@@ -53,7 +53,7 @@ Postman • VS Code • Figma • Docker (Learning)
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-blue?style=for-the-badge"></a>
+  <a href="https://eko360k.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-blue?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/emmanuel-ofori360" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:emaofori360@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
