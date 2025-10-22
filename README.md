@@ -36,7 +36,7 @@ Postman • VS Code • Figma • Docker (Learning)
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🛍️ [Buyonix](https://github.com/EmmanuelOfori/buyonix) | eCommerce platform to buy affordble items | PHP, Javascript, MySql |
+| 🛍️ [Buyonix](https://github.com/eko360k/BUYONIX) | eCommerce platform to buy affordble items | PHP, Javascript, MySql |
 | 🧾 [KTU Student Form System](https://github.com/EmmanuelOfori/KTU-StudentApp) | Handles student application forms, PDF generation, and admin panel | VB.NET, SQL |
 | 📊 [Student Grading System](https://github.com/EmmanuelOfori/KTU-GradingSystem) | Automated grade calculation and reporting tool | VB.NET |
 
